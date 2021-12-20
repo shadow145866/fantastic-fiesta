@@ -1,0 +1,9 @@
+__sapper__/
+.DS_Store
+.vscode
+cypress/screenshots/
+node_modules
+settings.json
+src/node_modules/@sapper/
+static/global.css
+yarn-error.log
